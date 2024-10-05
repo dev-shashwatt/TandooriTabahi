@@ -1,9 +1,9 @@
 {
     "name": "music-bot",
     "main": "main.js",
-    "author": "ZerioDev",
+    "author": "dev-shashwatt",
     "version": "8.0.0",
-    "repository": "https://github.com/ZerioDev/Music-bot.git",
+    "repository": "hhttps://github.com/dev-shashwatt/TandooriTabahi",
     "description": "A complete code to download for a cool Discord music bot.",
     "scripts": {
         "start": "node main.js"
